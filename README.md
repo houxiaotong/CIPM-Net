@@ -94,7 +94,7 @@ This code is based on [BasicSR](https://github.com/XPixelGroup/BasicSR), [Causal
 
 ## Contact
 
-If you have any questions, feel free to approach me
+If you have any questions, feel free to approach me.
 
 
 
